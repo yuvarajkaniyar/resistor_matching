@@ -1,0 +1,9 @@
+* Conceptual matched resistor array: independent series strings
+R_A_1 A_P A_internal_1 1000
+R_A_2 A_internal_1 A_internal_2 1000
+R_A_3 A_internal_2 A_internal_3 1000
+R_A_4 A_internal_3 A_N 1000
+R_B_1 B_P B_internal_1 1000
+R_B_2 B_internal_1 B_internal_2 1000
+R_B_3 B_internal_2 B_internal_3 1000
+R_B_4 B_internal_3 B_N 1000
