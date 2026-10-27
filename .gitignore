@@ -1,0 +1,11 @@
+# virtualenv
+.venv/
+
+# python bytecode
+__pycache__/
+*.py[cod]
+
+# generated previews (re-made by running the routers)
+routing_tool_oct27/routing_plot.png
+routing_tool_oct27/routing_v5.png
+routing_tool_oct27/resistor_array_v4.png
